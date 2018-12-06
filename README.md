@@ -1,4 +1,4 @@
-# Investigate and explain box plots and their uses
+# Simulate a Real World Phenomenon
 
 This assignment has been completed in accordance with the tasks set out in the coursework of the Fundamentals of Data Analysis module as part of the Higher Diploma in Data Analytics in Galway-Mayo Institute of Technology.
 
@@ -26,7 +26,22 @@ To review the analysis methods and conclusions from the assigment:
 
 ## Objectives
 The aim of this project is to:
-1. Summarise the history of the box plot Highlight situations in which it is used. Demonstrate the use of box plots using data. Explain relevant terminology used in the creation and analysis of box plots including: {quartile, percentile, median, min, max, outlier, whisker, hinge and fence} Compare box plotting to some alternatives
+1. Summarise a real world problem of interest to me
 2. Initial Research
 3. Method
 4. References & Research
+
+## Summary of real world problem
+The
+
+## Plan the project
+The
+
+## Initial research
+The
+
+## Method
+The
+
+## References & Research
+The
