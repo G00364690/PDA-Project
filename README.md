@@ -27,9 +27,10 @@ To review the analysis methods and conclusions from the assigment:
 ## Objectives
 The aim of this project is to:
 1. Summarise a real world problem of interest to me
-2. Initial Research
-3. Method
-4. References & Research
+2. Derive project plan
+3. Initial Research
+4. Method
+5. References & Research
 
 ## Summary of real world problem
 The
