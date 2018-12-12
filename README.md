@@ -36,7 +36,13 @@ The aim of this project is to:
 The
 
 ## Plan the project
-The
+The approach to this project has been to:
+
+1. Decide on the real life phenomenon to simulate
+2. Investigate the variables driving the phenomenon and simplify the problem to most dominant variables
+3. Investigate dominant variables and determine their average value ranges and distributions
+4. Write some python code to display the data
+5. Simulate the phenomenon and with sythesized data
 
 ## Initial research
 The
