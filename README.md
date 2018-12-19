@@ -52,3 +52,14 @@ The
 
 ## References & Research
 The
+https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0
+https://seaborn.pydata.org/generated/seaborn.distplot.html
+https://medium.com/@gis10kwo/plot-histogram-and-probability-density-function-pdf-in-matplotlib-python-4577a063e56c
+https://stackoverflow.com/questions/4150171/how-to-create-a-density-plot-in-matplotlib
+https://python-graph-gallery.com/density-plot/
+https://het.as.utexas.edu/HET/Software/Numpy/reference/routines.random.html
+https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-poisson-distribution/MD62MLXUMKMXZ6A8
+http://www.physik.uni-leipzig.de/~janke/CompPhys06/Folien/Nussbaumer.pdf
+https://help.smarkets.com/hc/en-gb/articles/115001457989-How-to-calculate-Poisson-distribution-for-football-betting
+https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/
+https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/sandrac/publications/footy.pdf
