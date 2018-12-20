@@ -63,3 +63,10 @@ http://www.physik.uni-leipzig.de/~janke/CompPhys06/Folien/Nussbaumer.pdf
 https://help.smarkets.com/hc/en-gb/articles/115001457989-How-to-calculate-Poisson-distribution-for-football-betting
 https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/
 https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/sandrac/publications/footy.pdf
+https://www.sportskeeda.com/football/team-focus-the-correlation-between-shots-per-game-and-goals-scored
+https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-expected-goals-for-soccer-matches/JESJH3RKXCMUF9TY
+https://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals
+http://www.football-bookmakers.com/news/shoot-why-shots-on-target-ratios-are-the-only-stat-you-need.html
+http://www.soccerstatistically.com/blog/2011/7/18/do-shots-on-goal-matter.html
+https://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals
+http://www.footcharts.co.uk/index.cfm?task=corr_attack&league=E0&venue=T&season=20/12/2018
