@@ -62,9 +62,10 @@ The method by which we simulate expected goals would need to be derived from sim
 ## Method
 Research indicated that 
 
-1. Shots - Some research would indicate there are between 20 and 40 shots in a game. (between 10 and 20 per team)
-2. Shots on target - Some research would indicate there are between 10 and 15 shots on target in a game. (between 3 and 8 per team)
-3. Goals - Looking to existing data we'll make the assumption that there is an average of 2.5 goals per game in a top level game.
+1. Distance to goal
+2. Shots - Some research would indicate there are between 20 and 40 shots in a game. (between 10 and 20 per team)
+3. Shots on target - Some research would indicate there are between 10 and 15 shots on target in a game. (between 3 and 8 per team)
+4. Goals - Looking to existing data we'll make the assumption that there is an average of 2.5 goals per game in a top level game.
 
 
 ## References & Research
