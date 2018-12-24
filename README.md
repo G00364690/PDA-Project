@@ -54,9 +54,9 @@ Initial research of the phenomenon indicated that the variables that comprise th
 
 The method by which we simulate expected goals would need to be derived from simpler parameters. 
 
-1. Shots
-2. Shots on target
-3. Distance to goal
+1. Distance to goal
+2. Shots
+3. Shots on target
 4. Goals
 
 ## Method
