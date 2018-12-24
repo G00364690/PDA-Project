@@ -32,8 +32,8 @@ The aim of this project is to:
 4. Method
 5. References & Research
 
-## Summary of real world problem
-The
+## Summary of real world phenomenon
+The real world phenomenon I want to simulate is expected goals. In order to simulate expected goals we need to break down the parameters and variables that comprise the expected goals model. If these variables prove too elaborate to simulate we can derive our own expected goals model from simpler variables with more measurable distributions.
 
 ## Plan the project
 The approach to this project has been to:
@@ -45,13 +45,29 @@ The approach to this project has been to:
 5. Simulate the phenomenon and with sythesized data
 
 ## Initial research
-The
+Initial research of the phenomenon indicated that the variables that comprise the expected goals model were quite complex to find sample data for and thus challenging to simulate. 
+
+1. Header
+2. Distance to goal
+3. Visible angle of the goal
+4. Big chance
+
+The method by which we simulate expected goals would need to be derived from simpler parameters. 
+
+1. Shots
+2. Shots on target
+3. Distance to goal
+4. Goals
 
 ## Method
-The
+Research indicated that 
+
+1. Shots - Some research would indicate there are between 20 and 40 shots in a game. (between 10 and 20 per team)
+2. Shots on target - Some research would indicate there are between 10 and 15 shots on target in a game. (between 3 and 8 per team)
+3. Goals - Looking to existing data we'll make the assumption that there is an average of 2.5 goals per game in a top level game.
+
 
 ## References & Research
-The
 https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0
 https://seaborn.pydata.org/generated/seaborn.distplot.html
 https://medium.com/@gis10kwo/plot-histogram-and-probability-density-function-pdf-in-matplotlib-python-4577a063e56c
